@@ -1,5 +1,5 @@
 # EHR Audit System
-This is a prototype cryptographically secure EHR audit system. 
+This is a prototype cryptographically secure Electronic Health Record (EHR) audit system. It allows for agents with various levels of authority to view and edit health records in a secure manner while keeping a full audit history for the purposes of security.
 
 ## Quick Start
 Load the .sln into Visual Studio. Run InitDatabase to initialize the database, then run both Client and Server projects to start an instance.
